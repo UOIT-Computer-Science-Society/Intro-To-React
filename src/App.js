@@ -3,6 +3,7 @@ import "./App.css";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 
+
 //BAD PRACTICE!
 const apiKey = "8ddceeacaf8b95fe943c88fc8389dee0";
 
@@ -72,12 +73,13 @@ class App extends Component {
           <div className="container" style={{ width: "100%" }}>
             <div className="row">
               <div className="col-xs-5 title-container">
-                {/**Insert Title Code Here */}
+                {/**Insert Title Component Here */}
               </div>
               <div className="col-xs-7 form-container">
-                {/**Insert Form Code Here */}
 
-                {/**Insert Weather Code Here */}
+                {/**Insert Form Component Here */}
+                
+                {/**Insert Weather Component Here */}
 
               </div>
             </div>
