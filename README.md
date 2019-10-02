@@ -17,6 +17,6 @@ The goal of the workshop is to teach the member the following concepts:
 ![npm install command](images/npm-install-command.PNG)
 
 2. Run **npm start** in the command terminal to run the project
-![npm install command](images/npm-start-command.PNG)
+![npm start command](images/npm-start-command.PNG)
 
 3. Look at wiki for the challenges and solution
